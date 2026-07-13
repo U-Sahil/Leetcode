@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/U-Sahil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/U-Sahil/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/U-Sahil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/U-Sahil/Leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/U-Sahil/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/U-Sahil/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
