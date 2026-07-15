@@ -5,18 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/U-Sahil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/U-Sahil/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/U-Sahil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/U-Sahil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/U-Sahil/Leetcode/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/U-Sahil/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/U-Sahil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/U-Sahil/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/U-Sahil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/U-Sahil/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/U-Sahil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
