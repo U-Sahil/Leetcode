@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/U-Sahil/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/U-Sahil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/U-Sahil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/U-Sahil/Leetcode/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/U-Sahil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/U-Sahil/Leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -50,8 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/U-Sahil/Leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/U-Sahil/Leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
