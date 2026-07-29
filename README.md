@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/U-Sahil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/U-Sahil/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/U-Sahil/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/U-Sahil/Leetcode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/U-Sahil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/U-Sahil/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/U-Sahil/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/U-Sahil/Leetcode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/U-Sahil/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/U-Sahil/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/U-Sahil/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
