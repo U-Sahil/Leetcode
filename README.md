@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/U-Sahil/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/U-Sahil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/U-Sahil/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
