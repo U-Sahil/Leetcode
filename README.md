@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/U-Sahil/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/U-Sahil/Leetcode/tree/master/0394-decode-string) |
 ## Tree
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/U-Sahil/Leetcode/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/U-Sahil/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1148-article-views-i](https://github.com/U-Sahil/Leetcode/tree/master/1148-article-views-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/U-Sahil/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
