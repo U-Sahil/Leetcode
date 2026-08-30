@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/U-Sahil/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/U-Sahil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/U-Sahil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/U-Sahil/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/U-Sahil/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/U-Sahil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/U-Sahil/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/U-Sahil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/U-Sahil/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
