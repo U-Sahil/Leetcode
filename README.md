@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/U-Sahil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/U-Sahil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/U-Sahil/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/U-Sahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/U-Sahil/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/U-Sahil/Leetcode/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/U-Sahil/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/U-Sahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/U-Sahil/Leetcode/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/U-Sahil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/U-Sahil/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/U-Sahil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/U-Sahil/Leetcode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/U-Sahil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/U-Sahil/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
