@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/U-Sahil/Leetcode/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/U-Sahil/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/U-Sahil/Leetcode/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/U-Sahil/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/U-Sahil/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/U-Sahil/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
