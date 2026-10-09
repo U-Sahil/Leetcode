@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/U-Sahil/Leetcode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/U-Sahil/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/U-Sahil/Leetcode/tree/master/0619-biggest-single-number) |
+| [1068-product-sales-analysis-i](https://github.com/U-Sahil/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/U-Sahil/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/U-Sahil/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/U-Sahil/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
